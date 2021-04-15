@@ -139,7 +139,7 @@ h6 {
 /* Typography */
 
 h1 {
-    font-size: 56px;
+    font-size: 50px;
 }
 
 h2 {
@@ -1401,7 +1401,7 @@ img {
 .banner-section .journey-box {
     position: absolute;
     right: 120px;
-    bottom: 20px;
+    bottom: 2px;
     width: 100%;
     z-index: 1;
     max-width: 520px;
@@ -1435,7 +1435,7 @@ img {
     color: #15192b;
     font-size: 16px;
     font-weight: 500;
-    width: 119px;
+    width: 210px;
     background-color: #ffffff;
     transition: all 500ms ease;
     -moz-transition: all 500ms ease;
