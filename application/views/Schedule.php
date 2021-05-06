@@ -63,44 +63,10 @@
 
                                                 <div class="qodef-comment-text" style="padding:unset">
                                                     <h6 class="qodef-comment-name">
-                                                        Wedding Budi & S </h6>
-                                                    <span class="qodef-comment-date">June 24, 2016 at 10:19 am</span>
+                                                        Holy Matrimony Tata </h6>
+                                                    <span class="qodef-comment-date">30 Januari 2021</span>
                                                     <div class="qodef-text-holder" id="comment-37">
-                                                        <p>Vendor: Katering A, Gedung A, Sound System C</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="qodef-comments">
-                                    <ul class="qodef-comment-list">
-                                        <li>
-                                            <div class="qodef-comment clearfix">
-
-                                                <div class="qodef-comment-text" style="padding:unset">
-                                                    <h6 class="qodef-comment-name">
-                                                        Wedding Budi & S </h6>
-                                                    <span class="qodef-comment-date">June 24, 2016 at 10:19 am</span>
-                                                    <div class="qodef-text-holder" id="comment-37">
-                                                        <p>Vendor: Katering A, Gedung A, Sound System C</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="qodef-comments">
-                                    <ul class="qodef-comment-list">
-                                        <li>
-                                            <div class="qodef-comment clearfix">
-
-                                                <div class="qodef-comment-text" style="padding:unset">
-                                                    <h6 class="qodef-comment-name">
-                                                        Wedding Budi & S </h6>
-                                                    <span class="qodef-comment-date">June 24, 2016 at 10:19 am</span>
-                                                    <div class="qodef-text-holder" id="comment-37">
-                                                        <p>Vendor: Katering A, Gedung A, Sound System C</p>
+                                                        <p>Lokasi: Ngawi, Jawa Timur</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -121,10 +87,10 @@
 
                                                 <div class="qodef-comment-text" style="padding:unset">
                                                     <h6 class="qodef-comment-name">
-                                                        Wedding Budi & S </h6>
-                                                    <span class="qodef-comment-date">June 24, 2016 at 10:19 am</span>
+                                                        Wedding Steven </h6>
+                                                    <span class="qodef-comment-date">20 Februari 2021</span>
                                                     <div class="qodef-text-holder" id="comment-37">
-                                                        <p>Vendor: Katering A, Gedung A, Sound System C</p>
+                                                        <p>Lokasi: Kota Batu, Jawa Timur</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -145,10 +111,44 @@
 
                                                 <div class="qodef-comment-text" style="padding:unset">
                                                     <h6 class="qodef-comment-name">
-                                                        Wedding Budi & S </h6>
-                                                    <span class="qodef-comment-date">June 24, 2016 at 10:19 am</span>
+                                                        Akad Nana & Adi </h6>
+                                                    <span class="qodef-comment-date">5 Maret 2021</span>
                                                     <div class="qodef-text-holder" id="comment-37">
-                                                        <p>Vendor: Katering A, Gedung A, Sound System C</p>
+                                                        <p>Lokasi: Kota Malang, Jawa Timur</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="qodef-comments">
+                                    <ul class="qodef-comment-list">
+                                        <li>
+                                            <div class="qodef-comment clearfix">
+
+                                                <div class="qodef-comment-text" style="padding:unset">
+                                                    <h6 class="qodef-comment-name">
+                                                        Wedding Alif & Rijal </h6>
+                                                    <span class="qodef-comment-date">21 Maret 2021</span>
+                                                    <div class="qodef-text-holder" id="comment-37">
+                                                        <p>Lokasi: DKI Jakarta</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="qodef-comments">
+                                    <ul class="qodef-comment-list">
+                                        <li>
+                                            <div class="qodef-comment clearfix">
+
+                                                <div class="qodef-comment-text" style="padding:unset">
+                                                    <h6 class="qodef-comment-name">
+                                                        Wedding Najma & Suffian </h6>
+                                                    <span class="qodef-comment-date">27 Maret 2021</span>
+                                                    <div class="qodef-text-holder" id="comment-37">
+                                                        <p>Lokasi: Madura, Jawa Timur</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -169,10 +169,10 @@
 
                                                 <div class="qodef-comment-text" style="padding:unset">
                                                     <h6 class="qodef-comment-name">
-                                                        Wedding Budi & S </h6>
-                                                    <span class="qodef-comment-date">June 24, 2016 at 10:19 am</span>
+                                                        Wedding Dyana & Daniel </h6>
+                                                    <span class="qodef-comment-date">25 April 2021</span>
                                                     <div class="qodef-text-holder" id="comment-37">
-                                                        <p>Vendor: Katering A, Gedung A, Sound System C</p>
+                                                        <p>Lokasi: DKI Jakarta</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -193,10 +193,10 @@
 
                                                 <div class="qodef-comment-text" style="padding:unset">
                                                     <h6 class="qodef-comment-name">
-                                                        Wedding Budi & S </h6>
-                                                    <span class="qodef-comment-date">June 24, 2016 at 10:19 am</span>
+                                                        Wedding Najla & Bona </h6>
+                                                    <span class="qodef-comment-date">30 Mei 2021</span>
                                                     <div class="qodef-text-holder" id="comment-37">
-                                                        <p>Vendor: Katering A, Gedung A, Sound System C</p>
+                                                        <p>Lokasi: DKI Jakarta</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -217,10 +217,27 @@
 
                                                 <div class="qodef-comment-text" style="padding:unset">
                                                     <h6 class="qodef-comment-name">
-                                                        Wedding Budi & S </h6>
-                                                    <span class="qodef-comment-date">June 24, 2016 at 10:19 am</span>
+                                                        Wedding Nana & Adi </h6>
+                                                    <span class="qodef-comment-date">12 Juni 2021</span>
                                                     <div class="qodef-text-holder" id="comment-37">
-                                                        <p>Vendor: Katering A, Gedung A, Sound System C</p>
+                                                        <p>Lokasi: Kota Malang, Jawa Timur</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="qodef-comments">
+                                    <ul class="qodef-comment-list">
+                                        <li>
+                                            <div class="qodef-comment clearfix">
+
+                                                <div class="qodef-comment-text" style="padding:unset">
+                                                    <h6 class="qodef-comment-name">
+                                                        Vendy & Melinda </h6>
+                                                    <span class="qodef-comment-date">26 Juni 2021</span>
+                                                    <div class="qodef-text-holder" id="comment-37">
+                                                        <p>Lokasi: Kota Surabaya, Jawa Timur</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -241,10 +258,44 @@
 
                                                 <div class="qodef-comment-text" style="padding:unset">
                                                     <h6 class="qodef-comment-name">
-                                                        Wedding Budi & S </h6>
-                                                    <span class="qodef-comment-date">June 24, 2016 at 10:19 am</span>
+                                                        Wedding Olin & Joko </h6>
+                                                    <span class="qodef-comment-date">3 Juli 2021</span>
                                                     <div class="qodef-text-holder" id="comment-37">
-                                                        <p>Vendor: Katering A, Gedung A, Sound System C</p>
+                                                        <p>Lokasi: Kota Malang, Jawa Timur</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="qodef-comments">
+                                    <ul class="qodef-comment-list">
+                                        <li>
+                                            <div class="qodef-comment clearfix">
+
+                                                <div class="qodef-comment-text" style="padding:unset">
+                                                    <h6 class="qodef-comment-name">
+                                                        Wedding Tatya & Marshal </h6>
+                                                    <span class="qodef-comment-date">11 Juli 2021</span>
+                                                    <div class="qodef-text-holder" id="comment-37">
+                                                        <p>Lokasi: DKI Jakarta</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="qodef-comments">
+                                    <ul class="qodef-comment-list">
+                                        <li>
+                                            <div class="qodef-comment clearfix">
+
+                                                <div class="qodef-comment-text" style="padding:unset">
+                                                    <h6 class="qodef-comment-name">
+                                                        Wedding Stevanie & Lucky </h6>
+                                                    <span class="qodef-comment-date">18 Juli 2021</span>
+                                                    <div class="qodef-text-holder" id="comment-37">
+                                                        <p>Lokasi: Tumpang, Kab. Malang, Jawa Timur</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -252,7 +303,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="qodef-comment-holder clearfix" style="margin-top: 50px;" id="comments">
+                            <!-- <div class="qodef-comment-holder clearfix" style="margin-top: 50px;" id="comments">
                                 <div class="qodef-comment-number">
                                     <div class="qodef-comment-number-inner">
                                         <h6>1 Agustus 2021 - 31 Agustus 2021</h6>
@@ -275,8 +326,8 @@
                                         </li>
                                     </ul>
                                 </div>
-                            </div>
-                            <div class="qodef-comment-holder clearfix" style="margin-top: 50px;" id="comments">
+                            </div> -->
+                            <!-- <div class="qodef-comment-holder clearfix" style="margin-top: 50px;" id="comments">
                                 <div class="qodef-comment-number">
                                     <div class="qodef-comment-number-inner">
                                         <h6>1 September 2021 - 30 September 2021</h6>
@@ -299,7 +350,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="qodef-comment-holder clearfix" style="margin-top: 50px;" id="comments">
                                 <div class="qodef-comment-number">
                                     <div class="qodef-comment-number-inner">
@@ -313,10 +364,10 @@
 
                                                 <div class="qodef-comment-text" style="padding:unset">
                                                     <h6 class="qodef-comment-name">
-                                                        Wedding Budi & S </h6>
-                                                    <span class="qodef-comment-date">June 24, 2016 at 10:19 am</span>
+                                                        Wedding Ayy & Jonathan </h6>
+                                                    <span class="qodef-comment-date">10 Oktober 2021</span>
                                                     <div class="qodef-text-holder" id="comment-37">
-                                                        <p>Vendor: Katering A, Gedung A, Sound System C</p>
+                                                        <p>Lokasi: DKI Jakarta</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -324,7 +375,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="qodef-comment-holder clearfix" style="margin-top: 50px;" id="comments">
+                            <!-- <div class="qodef-comment-holder clearfix" style="margin-top: 50px;" id="comments">
                                 <div class="qodef-comment-number">
                                     <div class="qodef-comment-number-inner">
                                         <h6>1 November 2021 - 30 November 2021</h6>
@@ -347,8 +398,8 @@
                                         </li>
                                     </ul>
                                 </div>
-                            </div>
-                            <div class="qodef-comment-holder clearfix" style="margin-top: 50px;" id="comments">
+                            </div> -->
+                            <!-- <div class="qodef-comment-holder clearfix" style="margin-top: 50px;" id="comments">
                                 <div class="qodef-comment-number">
                                     <div class="qodef-comment-number-inner">
                                         <h6>1 Desember 2021 - 31 Desember 2021</h6>
@@ -371,7 +422,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>

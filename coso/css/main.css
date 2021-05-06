@@ -2964,9 +2964,10 @@ img {
 
 .newsletter-form .form-group button {
     position: absolute;
-    right: 12px;
+    left: 0;
     top: 10px;
     cursor: pointer;
+    width: 100%;
 }
 
 .main-footer .social-box {
